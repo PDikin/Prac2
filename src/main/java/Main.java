@@ -4,11 +4,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("test");
-<<<<<<< HEAD
-
          //мастер коммит 1
-=======
         //вот так вот
->>>>>>> test
     }
 }
